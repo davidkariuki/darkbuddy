@@ -1,6 +1,6 @@
 # Darkbuddy
 
-A dark bootleg of [rakr/one](https://github.com/rakr/one) via
+A dark bootleg of [rakr/vim-one](https://github.com/rakr/vim-one) via
 [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy)
 
 Has [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) highlight groups
