@@ -15,7 +15,7 @@ Install with your favourite package manager:
 
 ```lua
 -- packer.nvim
-use { "~/projects/darkbuddy", requires = {{ "tjdevries/colorbuddy.vim" }} }
+use { "davidkariuki/darkbuddy", requires = {{ "tjdevries/colorbuddy.vim" }} }
 ```
 
 ```vim
