@@ -31,7 +31,7 @@ Color.new("syntax_accent", "#528bff")
 Color.new("vertsplit", "#181a1f")
 Color.new("special_grey", "#3b4048")
 Color.new("visual_grey", "#3e4452")
-Color.new("pmenu", "#333841")
+Color.new("pmenu", "#1F2329")
 
 -------------------------
 -- Vim Primary Colors --
