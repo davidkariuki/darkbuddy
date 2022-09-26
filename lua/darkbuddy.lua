@@ -630,3 +630,23 @@ Group.new("TSUnderline", c.hue_6_2, c.none, no)
 Group.new("TSURI", c.hue_6_2, c.none, no)
 Group.new("TSVariable", c.mono_1, c.none, no)
 Group.new("TSVariableBuiltin", c.hue_6_2, c.none, no)
+
+-----------------------------
+-- TreeSitter Highlighting --
+-----------------------------
+Group.new("CmpItemAbbrMatch", c.hue_2, c.none, no)
+Group.new("CmpItemKindText", c.mono_1, c.none, no)
+Group.new("CmpItemKindMethod", c.syntax_accent, c.none, no)
+Group.new("CmpItemKindFunction", c.hue_2, c.none, no)
+Group.new("CmpItemKindContructor", c.hue_5, c.none, no)
+Group.new("CmpItemKindField", c.Cyan, c.none, no)
+Group.new("CmpItemKindVariable", c.Orange, c.none, no)
+Group.new("CmpItemKindConstant", c.hue_4, c.none, no)
+Group.new("CmpItemKindClass", c.hue_6_2, c.none, no)
+Group.new("CmpItemKindInterface", c.hue_6_2, c.none, no)
+Group.new("CmpItemKindModule", c.Red, c.none, no)
+Group.new("CmpItemKindProperty", c.Purple, c.none, no)
+Group.new("CmpItemKindKeyword", c.Cyan, c.none, no)
+Group.new("CmpItemKindFile", c.mono_1, c.none, no)
+Group.new("CmpItemKindFolder", c.mono_1, c.none, no)
+Group.new("CmpItemKindSnippet", c.Green, c.none, no)
